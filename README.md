@@ -26,7 +26,7 @@ Launch Max > Go to Extras > Select Timer > Uncheck active
 
 Now the timer will not start when you launch Max
 
-<h2>Todo:</2>
+<h2>Todo:</h2>
 
 Add a pause button and auto pause when max is not in focus
 use screen size to determine initial size of timer (also set up for corners of screen for initialization)
