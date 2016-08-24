@@ -12,7 +12,7 @@ For Max 6 and older
 • Place the timer-master filder in a search path (you can select a search path from file-preferences)
 • Place the timer.maxpat in patcher > extras inside the Max Folder
 
-<h2Use:</h2>
+<h2>Use:</h2>
 
 To enable:
 
