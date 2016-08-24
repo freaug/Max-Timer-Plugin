@@ -9,7 +9,7 @@ Max Timer: A timer for freelancers/teachers/anyone, runs in MaxMSP and saves a t
 
 <h4>For Max 6 and older</h4>
 
-• Place the timer-master filder in a search path (you can select a search path from file-preferences)<br>
+• Place the timer-master folder in a search path (you can select a search path from file-preferences)<br>
 • Place the timer.maxpat in patcher > extras inside the Max Folder
 
 <h2>Use:</h2>
@@ -17,6 +17,8 @@ Max Timer: A timer for freelancers/teachers/anyone, runs in MaxMSP and saves a t
 To enable:
 
 Launch Max > Go to Extras > Select Timer > Check activate > Pick Directory to save files in (I made a new folder called Times in Documents) 
+
+<h6>*Note: the timer must be active to change the working file directory (working on fixing this).</h6>
 
 The timer will now start each time you launch Max
 
