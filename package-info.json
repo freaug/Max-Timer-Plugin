@@ -1,0 +1,11 @@
+{
+	"name": "Max Timer",
+	"type": "package",
+	"author": "Eddie Farr",
+	"description": "The Max Timer is a tool for keeping detailed records of time spent working on MaxMSP projects.",
+	"version": "1",
+	"major_version": "1",
+	"minor_version": "0",
+	"min_max_version": "502",
+	"website": "https://github.com/freaug/maxtimer"
+}
